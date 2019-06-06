@@ -2,7 +2,7 @@
 
 Retour à l'[Introduction](introduction.md)
 - [Définition](définition.md)
-- [Histoire](histoire.md)
+- [Historique](historique.md)
 - **Fonctionnement**
 - [Utilisation](utilisation.md)
 - [Types](types.md)
