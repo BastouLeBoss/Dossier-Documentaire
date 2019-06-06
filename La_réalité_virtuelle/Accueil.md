@@ -7,7 +7,7 @@ l'essentiel de ce que vous devez savoir sur la réalité virtuelle.
 
 ### Plan de classement
 - [Définition](définition.md)
-- [Histoire](histoire.md)
+- [Historique](historique.md)
 - [Fonctionnement](fonctionnement.md)
 - [Utilisation](utilisation.md)
 - [Types](types.md)
