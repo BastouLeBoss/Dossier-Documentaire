@@ -6,8 +6,8 @@ Vous trouverez ci-dessous des liens vous dirigeants vers différentes partie du 
 l'essentiel de ce que vous devez savoir sur la réalité virtuelle.
 
 ### Plan de classement
-- [Définition](définition.md)
-- [Historique](historique.md)
-- [Fonctionnement](fonctionnement.md)
-- [Utilisation](utilisation.md)
-- [Types](types.md)
+- [Définition](Définition.md)
+- [Historique](Historique.md)
+- [Fonctionnement](Fonctionnement.md)
+- [Utilisation](Utilisation.md)
+- [Types](Types.md)
