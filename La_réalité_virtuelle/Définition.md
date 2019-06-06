@@ -4,7 +4,7 @@ Retour à l'[Accueil](Accueil.md)
 - **Définition**
 - [Historique](Historique.md)
 - [Fonctionnement](Fonctionnement.md)
-- [Utilisation](Utilisation.md)
+- [Utilisations](Utilisations.md)
 - [Types](Types.md)
 
 ## Définition
