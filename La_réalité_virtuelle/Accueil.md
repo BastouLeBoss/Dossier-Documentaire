@@ -9,5 +9,5 @@ l'essentiel de ce que vous devez savoir sur la réalité virtuelle.
 - [Définition](Définition.md)
 - [Historique](Historique.md)
 - [Fonctionnement](Fonctionnement.md)
-- [Utilisation](Utilisation.md)
+- [Utilisations](Utilisations.md)
 - [Types](Types.md)
