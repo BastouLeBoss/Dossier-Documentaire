@@ -1,6 +1,6 @@
 # La réalité virtuelle
 
-Retour à l'[Introduction](introduction.md)
+Retour à l'[Accueil](accueil.md)
 - [Définition](définition.md)
 - [Historique](historique.md)
 - **Fonctionnement**
