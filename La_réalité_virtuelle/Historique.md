@@ -1,10 +1,10 @@
 # La réalité virtuelle
 
-Retour à l'[Introduction](introduction.md)
-- [Définition](définition.md)
+Retour à l'[Accueil](Accueil.md)
+- [Définition](Définition.md)
 - **Historique**
-- [Fonctionnement](fonctionnement.md)
-- [Utilisation](utilisation.md)
-- [Types](types.md)
+- [Fonctionnement](Fonctionnement.md)
+- [Utilisation](Utilisation.md)
+- [Types](Types.md)
 
 ## Historique
