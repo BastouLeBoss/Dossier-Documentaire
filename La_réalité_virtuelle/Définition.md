@@ -13,4 +13,4 @@ Réalité virtuelle [en ligne]. [S. l.] : [s. n.], 13 mai 2019. [Consulté�
 ![Définition Wikipedia](https://user-images.githubusercontent.com/50197262/59037365-62b19d00-8871-11e9-82e1-843c0156a11a.PNG)
 
 
-![Défibition Réalité-Virtuelle.com](https://www.realite-virtuelle.com/definition-realite-virtuelle#ftoc-heading-1) 
+![Défibition Réalité-Virtuelle.com](<img width="803" alt="Doc 2" src="https://user-images.githubusercontent.com/50197262/59144924-1a16f280-89dd-11e9-8325-1345ed527b03.PNG">)
